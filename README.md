@@ -1,11 +1,2 @@
-# Course
-BDS201
-
-Laboratory Work for Data Structure and Algorithm course in python.
-
-
-Regards,
-
-Pramod
-
-shtprasr@gmail.com
+# Data Structure and Algorithm
+Data Structure and Algorithm (BDS201)
